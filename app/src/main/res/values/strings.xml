@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo">SALUDO DE BIENVENIDA</string>
+    <string name="nombre">Nombre</string>
+    <string name="textoBotton">Librerias</string>
+    <string name="tituloCalculadora">Calculadora</string>
+    <string name="btnSuma">Suma</string>
+    <string name="btnResta">Resta</string>
+    <string name="btnMultiplicar">Multiplicar</string>
+    <string name="btnDivision">Division</string>
+    <string name="numero1">Numero1</string>
+    <string name="numero2">Numero2</string>
+    <string name="resultado">Resultado</string>
+</resources>
